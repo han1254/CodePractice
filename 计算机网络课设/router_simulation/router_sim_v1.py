@@ -561,7 +561,7 @@ def build_nodes_list(routers, nets):
 
 
 if __name__ == '__main__':
-    db = pymysql.connect(host='localhost', user='han1254', passwd='8282481aa', database='rip_datas')
+    db = pymysql.connect(host='localhost', user='han1254', passwd='xxx', database='xxx')
     cur = db.cursor(pymysql.cursors.DictCursor)
 
     MainPart(db, cur)
