@@ -1,0 +1,3 @@
+"F:\Cloud\clion\pro\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\parent_match.dir/objects.a
+D:\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\parent_match.dir/objects.a @CMakeFiles\parent_match.dir\objects1.rsp
+D:\Dev-Cpp\MinGW64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\parent_match.dir/objects.a -Wl,--no-whole-archive -o parent_match.exe -Wl,--out-implib,libparent_match.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\parent_match.dir\linklibs.rsp

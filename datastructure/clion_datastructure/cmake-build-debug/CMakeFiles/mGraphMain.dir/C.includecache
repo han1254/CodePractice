@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/MGraph.h
+../../common_status.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/common_status.h
+../common.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/common.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/MGraphImpl.h
+stdlib.h
+-
+MGraph.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/MGraph.h
+stdio.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/stdio.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/MGraphMain.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+MGraphImpl.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/_1_adjacency_matrix/MGraphImpl.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_6_graph/common.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/common_status.h
+

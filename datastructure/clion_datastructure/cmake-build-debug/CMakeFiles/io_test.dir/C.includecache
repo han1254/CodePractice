@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/test/io_test.c
+string.h
+-
+stdio.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/test/stdio.h
+stdlib.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/test/stdlib.h
+
