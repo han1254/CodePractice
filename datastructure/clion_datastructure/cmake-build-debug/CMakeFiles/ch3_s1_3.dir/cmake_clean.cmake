@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/compare.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_3_stack_and_queue/stack/_ch3_se1_3.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_6_graph/_1_adjacency_matrix/MGraphMain.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_6_graph/_2_adjacency_list/ALGraphMain.c.obj"

@@ -34,7 +34,7 @@ void printList2(LinkList* l) {//LinkList& l
     }
 }
 
-LinkList CreateList(int a[], int n) {
+LinkList CreateList(const int a[], int n) {
     LinkList hnode = (LinkList)malloc(sizeof(LNode));
     hnode->data = a[0];
     LinkList node = hnode;

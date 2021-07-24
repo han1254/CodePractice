@@ -890,6 +890,33 @@ _2_linear_list/compare.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\listCompare.dir\build.make CMakeFiles/listCompare.dir/_2_linear_list/compare.c.s
 .PHONY : _2_linear_list/compare.c.s
 
+_2_linear_list/merge_lists.obj: _2_linear_list/merge_lists.c.obj
+
+.PHONY : _2_linear_list/merge_lists.obj
+
+# target to build an object file
+_2_linear_list/merge_lists.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.obj
+.PHONY : _2_linear_list/merge_lists.c.obj
+
+_2_linear_list/merge_lists.i: _2_linear_list/merge_lists.c.i
+
+.PHONY : _2_linear_list/merge_lists.i
+
+# target to preprocess a source file
+_2_linear_list/merge_lists.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.i
+.PHONY : _2_linear_list/merge_lists.c.i
+
+_2_linear_list/merge_lists.s: _2_linear_list/merge_lists.c.s
+
+.PHONY : _2_linear_list/merge_lists.s
+
+# target to generate assembly for a file
+_2_linear_list/merge_lists.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.s
+.PHONY : _2_linear_list/merge_lists.c.s
+
 _3_stack_and_queue/application/_ch3_se3_4.obj: _3_stack_and_queue/application/_ch3_se3_4.c.obj
 
 .PHONY : _3_stack_and_queue/application/_ch3_se3_4.obj
@@ -2440,6 +2467,9 @@ help:
 	@echo ... _2_linear_list/compare.obj
 	@echo ... _2_linear_list/compare.i
 	@echo ... _2_linear_list/compare.s
+	@echo ... _2_linear_list/merge_lists.obj
+	@echo ... _2_linear_list/merge_lists.i
+	@echo ... _2_linear_list/merge_lists.s
 	@echo ... _3_stack_and_queue/application/_ch3_se3_4.obj
 	@echo ... _3_stack_and_queue/application/_ch3_se3_4.i
 	@echo ... _3_stack_and_queue/application/_ch3_se3_4.s
