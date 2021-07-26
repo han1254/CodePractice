@@ -3,6 +3,7 @@
 //
 
 #include <memory.h>
+#include "string.h"
 #include "BiTreeImpl.h"
 
 int IsSimilar(BiTree T1, BiTree T2) {

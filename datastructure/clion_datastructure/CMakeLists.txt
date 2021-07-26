@@ -4,7 +4,7 @@ project(clion_datastructure C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(clion_datastructure _3_stack_and_queue/stack/SqStack.h _3_stack_and_queue/stack/SqStackImpl.h _3_stack_and_queue/stack/SqStackMain.h _3_stack_and_queue/stack/LinkStack.h _3_stack_and_queue/stack/stack_common.h _3_stack_and_queue/stack/LinkStackImpl.h _3_stack_and_queue/stack/LinkStackMain.c common_status.h _2_linear_list/LinkListMain.c)
-add_executable(ch3_s1_3 _3_stack_and_queue/stack/_ch3_se1_3.c _6_graph/_1_adjacency_matrix/MGraph.h _6_graph/_1_adjacency_matrix/MGraphMain.c _6_graph/_1_adjacency_matrix/MGraphImpl.h _2_linear_list/compare.c _6_graph/_2_adjacency_list/ALGraph.h _6_graph/_2_adjacency_list/ALGraphImpl.h _6_graph/_2_adjacency_list/ALGraphMain.c _6_graph/_3_orthogonal_list/OLGraph.h _6_graph/common.h _6_graph/_3_orthogonal_list/OLGraphImpl.h _2_linear_list/LinkList.h _2_linear_list/LinkListImpl.h _6_graph/se3/se3_2.c _6_graph/_3_orthogonal_list/OLGraphMain.c _6_graph/se2/ch6_se2_4.c _6_graph/travel/graph_travel.h _6_graph/travel/graph_travel_main.c _6_graph/se3/se3_3.c _6_graph/se3/se3_4.c _6_graph/se3/se3_5.c _6_graph/aov/TopologicalSortHeader.h _6_graph/aov/TopologicalSortMain.c _6_graph/aoe/CriticalPath.h _6_graph/aoe/aoe_main.c _6_graph/minimum_cost_spanning_tree/Kruskal.h _6_graph/minimum_cost_spanning_tree/Prim.h _6_graph/minimum_cost_spanning_tree/minimum_main.c _6_graph/shortest_path/ShortestPath_DIJ.h _6_graph/shortest_path/ShortestPath_Main.c _6_graph/shortest_path/ShortestPath_FLOYD.h util/str_cut.h _2_linear_list/merge_lists.c)
+add_executable(ch3_s1_3 _3_stack_and_queue/stack/_ch3_se1_3.c _6_graph/_1_adjacency_matrix/MGraph.h _6_graph/_1_adjacency_matrix/MGraphMain.c _6_graph/_1_adjacency_matrix/MGraphImpl.h _2_linear_list/compare.c _6_graph/_2_adjacency_list/ALGraph.h _6_graph/_2_adjacency_list/ALGraphImpl.h _6_graph/_2_adjacency_list/ALGraphMain.c _6_graph/_3_orthogonal_list/OLGraph.h _6_graph/common.h _6_graph/_3_orthogonal_list/OLGraphImpl.h _2_linear_list/LinkList.h _2_linear_list/LinkListImpl.h _6_graph/se3/se3_2.c _6_graph/_3_orthogonal_list/OLGraphMain.c _6_graph/se2/ch6_se2_4.c _6_graph/travel/graph_travel.h _6_graph/travel/graph_travel_main.c _6_graph/se3/se3_3.c _6_graph/se3/se3_4.c _6_graph/se3/se3_5.c _6_graph/aov/TopologicalSortHeader.h _6_graph/aov/TopologicalSortMain.c _6_graph/aoe/CriticalPath.h _6_graph/aoe/aoe_main.c _6_graph/minimum_cost_spanning_tree/Kruskal.h _6_graph/minimum_cost_spanning_tree/Prim.h _6_graph/minimum_cost_spanning_tree/minimum_main.c _6_graph/shortest_path/ShortestPath_DIJ.h _6_graph/shortest_path/ShortestPath_Main.c _6_graph/shortest_path/ShortestPath_FLOYD.h util/str_cut.h _2_linear_list/merge_lists.c _2_linear_list/sqlist.h _2_linear_list/_2_2_1_del_min.c _2_linear_list/_2_2_2_reverse_list.c _2_linear_list/_2_2_3_del_all_x.c _2_linear_list/_2_2_4_del_s_t.c _2_linear_list/_2_2_6_del_duplicate.c _2_linear_list/_2_2_7_merge_list.c)
 add_executable(link_stack_main _3_stack_and_queue/stack/LinkStackMain.c)
 add_executable(sq_queue_main _3_stack_and_queue/queue/SqQueueMain.c)
 add_executable(ch3_s2_1 _3_stack_and_queue/queue/_ch3_se2_1.c)
@@ -58,3 +58,15 @@ add_executable(critical_path_main _6_graph/aoe/aoe_main.c)
 add_executable(ch6_travel _6_graph/travel/graph_travel_main.c)
 add_executable(ch6_dij _6_graph/shortest_path/ShortestPath_Main.c)
 add_executable(ch6_minimum_main _6_graph/minimum_cost_spanning_tree/minimum_main.c)
+
+add_executable(ch2_2_1 _2_linear_list/_2_2_1_del_min.c)
+
+add_executable(ch2_2_2 _2_linear_list/_2_2_2_reverse_list.c)
+
+add_executable(ch2_2_3 _2_linear_list/_2_2_3_del_all_x.c)
+
+add_executable(ch2_2_4 _2_linear_list/_2_2_4_del_s_t.c)
+
+add_executable(ch2_2_6 _2_linear_list/_2_2_6_del_duplicate.c)
+
+add_executable(ch2_2_7 _2_linear_list/_2_2_7_merge_list.c)

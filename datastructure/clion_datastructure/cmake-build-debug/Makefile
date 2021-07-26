@@ -311,6 +311,19 @@ ch3_s2_3/fast:
 .PHONY : ch3_s2_3/fast
 
 #=============================================================================
+# Target rules for targets named ch2_2_6
+
+# Build rule for target.
+ch2_2_6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_6
+.PHONY : ch2_2_6
+
+# fast build rule for target.
+ch2_2_6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_6.dir\build.make CMakeFiles/ch2_2_6.dir/build
+.PHONY : ch2_2_6/fast
+
+#=============================================================================
 # Target rules for targets named ch6_se3_3
 
 # Build rule for target.
@@ -649,6 +662,19 @@ ch5_s3_19/fast:
 .PHONY : ch5_s3_19/fast
 
 #=============================================================================
+# Target rules for targets named ch2_2_2
+
+# Build rule for target.
+ch2_2_2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_2
+.PHONY : ch2_2_2
+
+# fast build rule for target.
+ch2_2_2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_2.dir\build.make CMakeFiles/ch2_2_2.dir/build
+.PHONY : ch2_2_2/fast
+
+#=============================================================================
 # Target rules for targets named ch5_s4_6
 
 # Build rule for target.
@@ -660,6 +686,19 @@ ch5_s4_6: cmake_check_build_system
 ch5_s4_6/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch5_s4_6.dir\build.make CMakeFiles/ch5_s4_6.dir/build
 .PHONY : ch5_s4_6/fast
+
+#=============================================================================
+# Target rules for targets named ch2_2_3
+
+# Build rule for target.
+ch2_2_3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_3
+.PHONY : ch2_2_3
+
+# fast build rule for target.
+ch2_2_3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_3.dir\build.make CMakeFiles/ch2_2_3.dir/build
+.PHONY : ch2_2_3/fast
 
 #=============================================================================
 # Target rules for targets named ch5_s4_7
@@ -766,6 +805,19 @@ mOLGraphMain/fast:
 .PHONY : mOLGraphMain/fast
 
 #=============================================================================
+# Target rules for targets named ch2_2_7
+
+# Build rule for target.
+ch2_2_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_7
+.PHONY : ch2_2_7
+
+# fast build rule for target.
+ch2_2_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_7.dir\build.make CMakeFiles/ch2_2_7.dir/build
+.PHONY : ch2_2_7/fast
+
+#=============================================================================
 # Target rules for targets named ch6_se3_2
 
 # Build rule for target.
@@ -777,6 +829,19 @@ ch6_se3_2: cmake_check_build_system
 ch6_se3_2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch6_se3_2.dir\build.make CMakeFiles/ch6_se3_2.dir/build
 .PHONY : ch6_se3_2/fast
+
+#=============================================================================
+# Target rules for targets named ch2_2_1
+
+# Build rule for target.
+ch2_2_1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_1
+.PHONY : ch2_2_1
+
+# fast build rule for target.
+ch2_2_1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_1.dir\build.make CMakeFiles/ch2_2_1.dir/build
+.PHONY : ch2_2_1/fast
 
 #=============================================================================
 # Target rules for targets named ch6_se3_4
@@ -830,6 +895,19 @@ ch6_minimum_main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch6_minimum_main.dir\build.make CMakeFiles/ch6_minimum_main.dir/build
 .PHONY : ch6_minimum_main/fast
 
+#=============================================================================
+# Target rules for targets named ch2_2_4
+
+# Build rule for target.
+ch2_2_4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_4
+.PHONY : ch2_2_4
+
+# fast build rule for target.
+ch2_2_4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_4.dir\build.make CMakeFiles/ch2_2_4.dir/build
+.PHONY : ch2_2_4/fast
+
 _2_linear_list/LinkListMain.obj: _2_linear_list/LinkListMain.c.obj
 
 .PHONY : _2_linear_list/LinkListMain.obj
@@ -859,6 +937,186 @@ _2_linear_list/LinkListMain.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\clion_datastructure.dir\build.make CMakeFiles/clion_datastructure.dir/_2_linear_list/LinkListMain.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\linklist.dir\build.make CMakeFiles/linklist.dir/_2_linear_list/LinkListMain.c.s
 .PHONY : _2_linear_list/LinkListMain.c.s
+
+_2_linear_list/_2_2_1_del_min.obj: _2_linear_list/_2_2_1_del_min.c.obj
+
+.PHONY : _2_linear_list/_2_2_1_del_min.obj
+
+# target to build an object file
+_2_linear_list/_2_2_1_del_min.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_1.dir\build.make CMakeFiles/ch2_2_1.dir/_2_linear_list/_2_2_1_del_min.c.obj
+.PHONY : _2_linear_list/_2_2_1_del_min.c.obj
+
+_2_linear_list/_2_2_1_del_min.i: _2_linear_list/_2_2_1_del_min.c.i
+
+.PHONY : _2_linear_list/_2_2_1_del_min.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_1_del_min.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_1.dir\build.make CMakeFiles/ch2_2_1.dir/_2_linear_list/_2_2_1_del_min.c.i
+.PHONY : _2_linear_list/_2_2_1_del_min.c.i
+
+_2_linear_list/_2_2_1_del_min.s: _2_linear_list/_2_2_1_del_min.c.s
+
+.PHONY : _2_linear_list/_2_2_1_del_min.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_1_del_min.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_1.dir\build.make CMakeFiles/ch2_2_1.dir/_2_linear_list/_2_2_1_del_min.c.s
+.PHONY : _2_linear_list/_2_2_1_del_min.c.s
+
+_2_linear_list/_2_2_2_reverse_list.obj: _2_linear_list/_2_2_2_reverse_list.c.obj
+
+.PHONY : _2_linear_list/_2_2_2_reverse_list.obj
+
+# target to build an object file
+_2_linear_list/_2_2_2_reverse_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_2.dir\build.make CMakeFiles/ch2_2_2.dir/_2_linear_list/_2_2_2_reverse_list.c.obj
+.PHONY : _2_linear_list/_2_2_2_reverse_list.c.obj
+
+_2_linear_list/_2_2_2_reverse_list.i: _2_linear_list/_2_2_2_reverse_list.c.i
+
+.PHONY : _2_linear_list/_2_2_2_reverse_list.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_2_reverse_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_2.dir\build.make CMakeFiles/ch2_2_2.dir/_2_linear_list/_2_2_2_reverse_list.c.i
+.PHONY : _2_linear_list/_2_2_2_reverse_list.c.i
+
+_2_linear_list/_2_2_2_reverse_list.s: _2_linear_list/_2_2_2_reverse_list.c.s
+
+.PHONY : _2_linear_list/_2_2_2_reverse_list.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_2_reverse_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_2.dir\build.make CMakeFiles/ch2_2_2.dir/_2_linear_list/_2_2_2_reverse_list.c.s
+.PHONY : _2_linear_list/_2_2_2_reverse_list.c.s
+
+_2_linear_list/_2_2_3_del_all_x.obj: _2_linear_list/_2_2_3_del_all_x.c.obj
+
+.PHONY : _2_linear_list/_2_2_3_del_all_x.obj
+
+# target to build an object file
+_2_linear_list/_2_2_3_del_all_x.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_3.dir\build.make CMakeFiles/ch2_2_3.dir/_2_linear_list/_2_2_3_del_all_x.c.obj
+.PHONY : _2_linear_list/_2_2_3_del_all_x.c.obj
+
+_2_linear_list/_2_2_3_del_all_x.i: _2_linear_list/_2_2_3_del_all_x.c.i
+
+.PHONY : _2_linear_list/_2_2_3_del_all_x.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_3_del_all_x.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_3.dir\build.make CMakeFiles/ch2_2_3.dir/_2_linear_list/_2_2_3_del_all_x.c.i
+.PHONY : _2_linear_list/_2_2_3_del_all_x.c.i
+
+_2_linear_list/_2_2_3_del_all_x.s: _2_linear_list/_2_2_3_del_all_x.c.s
+
+.PHONY : _2_linear_list/_2_2_3_del_all_x.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_3_del_all_x.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_3.dir\build.make CMakeFiles/ch2_2_3.dir/_2_linear_list/_2_2_3_del_all_x.c.s
+.PHONY : _2_linear_list/_2_2_3_del_all_x.c.s
+
+_2_linear_list/_2_2_4_del_s_t.obj: _2_linear_list/_2_2_4_del_s_t.c.obj
+
+.PHONY : _2_linear_list/_2_2_4_del_s_t.obj
+
+# target to build an object file
+_2_linear_list/_2_2_4_del_s_t.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_4_del_s_t.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_4.dir\build.make CMakeFiles/ch2_2_4.dir/_2_linear_list/_2_2_4_del_s_t.c.obj
+.PHONY : _2_linear_list/_2_2_4_del_s_t.c.obj
+
+_2_linear_list/_2_2_4_del_s_t.i: _2_linear_list/_2_2_4_del_s_t.c.i
+
+.PHONY : _2_linear_list/_2_2_4_del_s_t.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_4_del_s_t.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_4_del_s_t.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_4.dir\build.make CMakeFiles/ch2_2_4.dir/_2_linear_list/_2_2_4_del_s_t.c.i
+.PHONY : _2_linear_list/_2_2_4_del_s_t.c.i
+
+_2_linear_list/_2_2_4_del_s_t.s: _2_linear_list/_2_2_4_del_s_t.c.s
+
+.PHONY : _2_linear_list/_2_2_4_del_s_t.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_4_del_s_t.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_4_del_s_t.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_4.dir\build.make CMakeFiles/ch2_2_4.dir/_2_linear_list/_2_2_4_del_s_t.c.s
+.PHONY : _2_linear_list/_2_2_4_del_s_t.c.s
+
+_2_linear_list/_2_2_6_del_duplicate.obj: _2_linear_list/_2_2_6_del_duplicate.c.obj
+
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.obj
+
+# target to build an object file
+_2_linear_list/_2_2_6_del_duplicate.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_6_del_duplicate.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_6.dir\build.make CMakeFiles/ch2_2_6.dir/_2_linear_list/_2_2_6_del_duplicate.c.obj
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.c.obj
+
+_2_linear_list/_2_2_6_del_duplicate.i: _2_linear_list/_2_2_6_del_duplicate.c.i
+
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_6_del_duplicate.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_6_del_duplicate.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_6.dir\build.make CMakeFiles/ch2_2_6.dir/_2_linear_list/_2_2_6_del_duplicate.c.i
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.c.i
+
+_2_linear_list/_2_2_6_del_duplicate.s: _2_linear_list/_2_2_6_del_duplicate.c.s
+
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_6_del_duplicate.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_6_del_duplicate.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_6.dir\build.make CMakeFiles/ch2_2_6.dir/_2_linear_list/_2_2_6_del_duplicate.c.s
+.PHONY : _2_linear_list/_2_2_6_del_duplicate.c.s
+
+_2_linear_list/_2_2_7_merge_list.obj: _2_linear_list/_2_2_7_merge_list.c.obj
+
+.PHONY : _2_linear_list/_2_2_7_merge_list.obj
+
+# target to build an object file
+_2_linear_list/_2_2_7_merge_list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_7_merge_list.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_7.dir\build.make CMakeFiles/ch2_2_7.dir/_2_linear_list/_2_2_7_merge_list.c.obj
+.PHONY : _2_linear_list/_2_2_7_merge_list.c.obj
+
+_2_linear_list/_2_2_7_merge_list.i: _2_linear_list/_2_2_7_merge_list.c.i
+
+.PHONY : _2_linear_list/_2_2_7_merge_list.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_7_merge_list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_7_merge_list.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_7.dir\build.make CMakeFiles/ch2_2_7.dir/_2_linear_list/_2_2_7_merge_list.c.i
+.PHONY : _2_linear_list/_2_2_7_merge_list.c.i
+
+_2_linear_list/_2_2_7_merge_list.s: _2_linear_list/_2_2_7_merge_list.c.s
+
+.PHONY : _2_linear_list/_2_2_7_merge_list.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_7_merge_list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_7_merge_list.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_7.dir\build.make CMakeFiles/ch2_2_7.dir/_2_linear_list/_2_2_7_merge_list.c.s
+.PHONY : _2_linear_list/_2_2_7_merge_list.c.s
 
 _2_linear_list/compare.obj: _2_linear_list/compare.c.obj
 
@@ -2407,6 +2665,12 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ch2_2_1
+	@echo ... ch2_2_2
+	@echo ... ch2_2_3
+	@echo ... ch2_2_4
+	@echo ... ch2_2_6
+	@echo ... ch2_2_7
 	@echo ... ch3_s1_3
 	@echo ... ch3_s2_1
 	@echo ... ch3_s2_2
@@ -2464,6 +2728,24 @@ help:
 	@echo ... _2_linear_list/LinkListMain.obj
 	@echo ... _2_linear_list/LinkListMain.i
 	@echo ... _2_linear_list/LinkListMain.s
+	@echo ... _2_linear_list/_2_2_1_del_min.obj
+	@echo ... _2_linear_list/_2_2_1_del_min.i
+	@echo ... _2_linear_list/_2_2_1_del_min.s
+	@echo ... _2_linear_list/_2_2_2_reverse_list.obj
+	@echo ... _2_linear_list/_2_2_2_reverse_list.i
+	@echo ... _2_linear_list/_2_2_2_reverse_list.s
+	@echo ... _2_linear_list/_2_2_3_del_all_x.obj
+	@echo ... _2_linear_list/_2_2_3_del_all_x.i
+	@echo ... _2_linear_list/_2_2_3_del_all_x.s
+	@echo ... _2_linear_list/_2_2_4_del_s_t.obj
+	@echo ... _2_linear_list/_2_2_4_del_s_t.i
+	@echo ... _2_linear_list/_2_2_4_del_s_t.s
+	@echo ... _2_linear_list/_2_2_6_del_duplicate.obj
+	@echo ... _2_linear_list/_2_2_6_del_duplicate.i
+	@echo ... _2_linear_list/_2_2_6_del_duplicate.s
+	@echo ... _2_linear_list/_2_2_7_merge_list.obj
+	@echo ... _2_linear_list/_2_2_7_merge_list.i
+	@echo ... _2_linear_list/_2_2_7_merge_list.s
 	@echo ... _2_linear_list/compare.obj
 	@echo ... _2_linear_list/compare.i
 	@echo ... _2_linear_list/compare.s

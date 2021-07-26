@@ -1,4 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_4_del_s_t.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_6_del_duplicate.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_7_merge_list.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/compare.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_3_stack_and_queue/stack/_ch3_se1_3.c.obj"
