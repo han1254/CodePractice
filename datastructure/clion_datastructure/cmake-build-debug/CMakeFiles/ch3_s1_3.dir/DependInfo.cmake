@@ -4,12 +4,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_10_left_p.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_10_left_p.c.obj"
+  "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_11_middle_number.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_1_del_min.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_2_reverse_list.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_3_del_all_x.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_4_del_s_t.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_4_del_s_t.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_6_del_duplicate.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_6_del_duplicate.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_7_merge_list.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_7_merge_list.c.obj"
+  "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_8_reverse_a_b.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_8_reverse_a_b.c.obj"
+  "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_9_find_insert.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_9_find_insert.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/compare.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/compare.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/merge_lists.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_2_linear_list/merge_lists.c.obj"
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_3_stack_and_queue/stack/_ch3_se1_3.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch3_s1_3.dir/_3_stack_and_queue/stack/_ch3_se1_3.c.obj"

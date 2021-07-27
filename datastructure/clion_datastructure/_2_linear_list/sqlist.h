@@ -24,6 +24,13 @@ void printList(SqList L) {
     printf("\n");
 }
 
+void printArray(const int arr[], int n) {
+    for (int i = 0; i < n; ++i)
+        printf("%d ", arr[i]);
+
+    printf("\n");
+}
+
 int createList(SqList *L, const int* a, int n) {
     L->length = 0;
     for (int i = 0; i < n; ++i) {

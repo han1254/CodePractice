@@ -435,44 +435,6 @@
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="str_main">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/str_main.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 str_main"/>
-					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="str_main/fast">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/str_main.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 str_main/fast"/>
-					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="ch3_s2_2">
 				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch3_s2_2.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
@@ -506,6 +468,44 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch3_s2_2/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str_main">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/str_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 str_main"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="str_main/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/str_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 str_main/fast"/>
 					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1585,44 +1585,6 @@
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ch2_2_2">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_2"/>
-					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ch2_2_2/fast">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
-					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_2/fast"/>
-					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="ch5_s4_6">
 				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch5_s4_6.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
@@ -1661,8 +1623,8 @@
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ch2_2_3">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_3.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="ch2_2_2">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_2.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1674,14 +1636,14 @@
 					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_3"/>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_2"/>
 					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ch2_2_3/fast">
-				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_3.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="ch2_2_2/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_2.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1693,7 +1655,7 @@
 					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_3/fast"/>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_2/fast"/>
 					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1737,11 +1699,39 @@
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
+			<Target title="ch2_2_3">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_3.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
-				<Option type="4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_3"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_3/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_3/fast"/>
 					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2317,6 +2307,130 @@
 					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="ch2_2_8">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_8"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_8/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_8/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_9">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_9"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_9/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_9/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_10">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_10"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ch2_2_10/fast">
+				<Option output="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/ch2_2_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch2_2_10/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkList.h">
 			<Option target="ch3_s1_3"/>
@@ -2327,6 +2441,13 @@
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkListMain.c">
 			<Option target="clion_datastructure"/>
 			<Option target="linklist"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_10_left_p.c">
+			<Option target="ch3_s1_3"/>
+			<Option target="ch2_2_10"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_11_middle_number.c">
+			<Option target="ch3_s1_3"/>
 		</Unit>
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_1_del_min.c">
 			<Option target="ch3_s1_3"/>
@@ -2351,6 +2472,14 @@
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_7_merge_list.c">
 			<Option target="ch3_s1_3"/>
 			<Option target="ch2_2_7"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_8_reverse_a_b.c">
+			<Option target="ch3_s1_3"/>
+			<Option target="ch2_2_8"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_9_find_insert.c">
+			<Option target="ch3_s1_3"/>
+			<Option target="ch2_2_9"/>
 		</Unit>
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/compare.c">
 			<Option target="ch3_s1_3"/>
