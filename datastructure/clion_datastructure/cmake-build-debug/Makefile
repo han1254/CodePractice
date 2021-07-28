@@ -947,6 +947,19 @@ ch2_2_10/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_10.dir\build.make CMakeFiles/ch2_2_10.dir/build
 .PHONY : ch2_2_10/fast
 
+#=============================================================================
+# Target rules for targets named ch2_2_11
+
+# Build rule for target.
+ch2_2_11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ch2_2_11
+.PHONY : ch2_2_11
+
+# fast build rule for target.
+ch2_2_11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_11.dir\build.make CMakeFiles/ch2_2_11.dir/build
+.PHONY : ch2_2_11/fast
+
 _2_linear_list/LinkListMain.obj: _2_linear_list/LinkListMain.c.obj
 
 .PHONY : _2_linear_list/LinkListMain.obj
@@ -1014,6 +1027,7 @@ _2_linear_list/_2_2_11_middle_number.obj: _2_linear_list/_2_2_11_middle_number.c
 # target to build an object file
 _2_linear_list/_2_2_11_middle_number.c.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_11.dir\build.make CMakeFiles/ch2_2_11.dir/_2_linear_list/_2_2_11_middle_number.c.obj
 .PHONY : _2_linear_list/_2_2_11_middle_number.c.obj
 
 _2_linear_list/_2_2_11_middle_number.i: _2_linear_list/_2_2_11_middle_number.c.i
@@ -1023,6 +1037,7 @@ _2_linear_list/_2_2_11_middle_number.i: _2_linear_list/_2_2_11_middle_number.c.i
 # target to preprocess a source file
 _2_linear_list/_2_2_11_middle_number.c.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_11.dir\build.make CMakeFiles/ch2_2_11.dir/_2_linear_list/_2_2_11_middle_number.c.i
 .PHONY : _2_linear_list/_2_2_11_middle_number.c.i
 
 _2_linear_list/_2_2_11_middle_number.s: _2_linear_list/_2_2_11_middle_number.c.s
@@ -1032,6 +1047,7 @@ _2_linear_list/_2_2_11_middle_number.s: _2_linear_list/_2_2_11_middle_number.c.s
 # target to generate assembly for a file
 _2_linear_list/_2_2_11_middle_number.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_11.dir\build.make CMakeFiles/ch2_2_11.dir/_2_linear_list/_2_2_11_middle_number.c.s
 .PHONY : _2_linear_list/_2_2_11_middle_number.c.s
 
 _2_linear_list/_2_2_1_del_min.obj: _2_linear_list/_2_2_1_del_min.c.obj
@@ -2823,6 +2839,7 @@ help:
 	@echo ... rebuild_cache
 	@echo ... ch2_2_1
 	@echo ... ch2_2_10
+	@echo ... ch2_2_11
 	@echo ... ch2_2_2
 	@echo ... ch2_2_3
 	@echo ... ch2_2_4

@@ -76,3 +76,6 @@ add_executable(ch2_2_8 _2_linear_list/_2_2_8_reverse_a_b.c)
 add_executable(ch2_2_9 _2_linear_list/_2_2_9_find_insert.c)
 
 add_executable(ch2_2_10 _2_linear_list/_2_2_10_left_p.c)
+
+
+add_executable(ch2_2_11 _2_linear_list/_2_2_11_middle_number.c)

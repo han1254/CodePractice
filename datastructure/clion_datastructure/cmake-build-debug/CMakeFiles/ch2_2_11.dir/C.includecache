@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_11_middle_number.c
+sqlist.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/sqlist.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/sqlist.h
+stdio.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/stdio.h
+
