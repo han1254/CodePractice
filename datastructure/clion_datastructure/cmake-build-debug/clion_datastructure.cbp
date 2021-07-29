@@ -2488,6 +2488,15 @@
 			<Option target="ch3_s1_3"/>
 			<Option target="ch2_2_11"/>
 		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_12_find_main_number.c">
+			<Option target="ch3_s1_3"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_13_find_lost.c">
+			<Option target="ch3_s1_3"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_14_min_dis.c">
+			<Option target="ch3_s1_3"/>
+		</Unit>
 		<Unit filename="F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_1_del_min.c">
 			<Option target="ch3_s1_3"/>
 			<Option target="ch2_2_1"/>

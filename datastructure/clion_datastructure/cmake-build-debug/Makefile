@@ -1050,6 +1050,87 @@ _2_linear_list/_2_2_11_middle_number.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch2_2_11.dir\build.make CMakeFiles/ch2_2_11.dir/_2_linear_list/_2_2_11_middle_number.c.s
 .PHONY : _2_linear_list/_2_2_11_middle_number.c.s
 
+_2_linear_list/_2_2_12_find_main_number.obj: _2_linear_list/_2_2_12_find_main_number.c.obj
+
+.PHONY : _2_linear_list/_2_2_12_find_main_number.obj
+
+# target to build an object file
+_2_linear_list/_2_2_12_find_main_number.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj
+.PHONY : _2_linear_list/_2_2_12_find_main_number.c.obj
+
+_2_linear_list/_2_2_12_find_main_number.i: _2_linear_list/_2_2_12_find_main_number.c.i
+
+.PHONY : _2_linear_list/_2_2_12_find_main_number.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_12_find_main_number.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.i
+.PHONY : _2_linear_list/_2_2_12_find_main_number.c.i
+
+_2_linear_list/_2_2_12_find_main_number.s: _2_linear_list/_2_2_12_find_main_number.c.s
+
+.PHONY : _2_linear_list/_2_2_12_find_main_number.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_12_find_main_number.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.s
+.PHONY : _2_linear_list/_2_2_12_find_main_number.c.s
+
+_2_linear_list/_2_2_13_find_lost.obj: _2_linear_list/_2_2_13_find_lost.c.obj
+
+.PHONY : _2_linear_list/_2_2_13_find_lost.obj
+
+# target to build an object file
+_2_linear_list/_2_2_13_find_lost.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj
+.PHONY : _2_linear_list/_2_2_13_find_lost.c.obj
+
+_2_linear_list/_2_2_13_find_lost.i: _2_linear_list/_2_2_13_find_lost.c.i
+
+.PHONY : _2_linear_list/_2_2_13_find_lost.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_13_find_lost.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.i
+.PHONY : _2_linear_list/_2_2_13_find_lost.c.i
+
+_2_linear_list/_2_2_13_find_lost.s: _2_linear_list/_2_2_13_find_lost.c.s
+
+.PHONY : _2_linear_list/_2_2_13_find_lost.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_13_find_lost.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.s
+.PHONY : _2_linear_list/_2_2_13_find_lost.c.s
+
+_2_linear_list/_2_2_14_min_dis.obj: _2_linear_list/_2_2_14_min_dis.c.obj
+
+.PHONY : _2_linear_list/_2_2_14_min_dis.obj
+
+# target to build an object file
+_2_linear_list/_2_2_14_min_dis.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj
+.PHONY : _2_linear_list/_2_2_14_min_dis.c.obj
+
+_2_linear_list/_2_2_14_min_dis.i: _2_linear_list/_2_2_14_min_dis.c.i
+
+.PHONY : _2_linear_list/_2_2_14_min_dis.i
+
+# target to preprocess a source file
+_2_linear_list/_2_2_14_min_dis.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.i
+.PHONY : _2_linear_list/_2_2_14_min_dis.c.i
+
+_2_linear_list/_2_2_14_min_dis.s: _2_linear_list/_2_2_14_min_dis.c.s
+
+.PHONY : _2_linear_list/_2_2_14_min_dis.s
+
+# target to generate assembly for a file
+_2_linear_list/_2_2_14_min_dis.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ch3_s1_3.dir\build.make CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.s
+.PHONY : _2_linear_list/_2_2_14_min_dis.c.s
+
 _2_linear_list/_2_2_1_del_min.obj: _2_linear_list/_2_2_1_del_min.c.obj
 
 .PHONY : _2_linear_list/_2_2_1_del_min.obj
@@ -2910,6 +2991,15 @@ help:
 	@echo ... _2_linear_list/_2_2_11_middle_number.obj
 	@echo ... _2_linear_list/_2_2_11_middle_number.i
 	@echo ... _2_linear_list/_2_2_11_middle_number.s
+	@echo ... _2_linear_list/_2_2_12_find_main_number.obj
+	@echo ... _2_linear_list/_2_2_12_find_main_number.i
+	@echo ... _2_linear_list/_2_2_12_find_main_number.s
+	@echo ... _2_linear_list/_2_2_13_find_lost.obj
+	@echo ... _2_linear_list/_2_2_13_find_lost.i
+	@echo ... _2_linear_list/_2_2_13_find_lost.s
+	@echo ... _2_linear_list/_2_2_14_min_dis.obj
+	@echo ... _2_linear_list/_2_2_14_min_dis.i
+	@echo ... _2_linear_list/_2_2_14_min_dis.s
 	@echo ... _2_linear_list/_2_2_1_del_min.obj
 	@echo ... _2_linear_list/_2_2_1_del_min.i
 	@echo ... _2_linear_list/_2_2_1_del_min.s

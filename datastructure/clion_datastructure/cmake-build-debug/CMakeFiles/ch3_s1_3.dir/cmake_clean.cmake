@@ -1,6 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_10_left_p.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj"
+  "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_1_del_min.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_2_reverse_list.c.obj"
   "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_3_del_all_x.c.obj"

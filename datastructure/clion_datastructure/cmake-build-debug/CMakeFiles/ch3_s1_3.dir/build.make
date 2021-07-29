@@ -413,6 +413,45 @@ CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.s"
 	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_11_middle_number.c -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_11_middle_number.c.s
 
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj: CMakeFiles/ch3_s1_3.dir/flags.make
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj: ../_2_linear_list/_2_2_12_find_main_number.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Cloud\CodePractice\datastructure\clion_datastructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_12_find_main_number.c.obj -c F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_12_find_main_number.c
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.i"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_12_find_main_number.c > CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_12_find_main_number.c.i
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.s"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_12_find_main_number.c -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_12_find_main_number.c.s
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj: CMakeFiles/ch3_s1_3.dir/flags.make
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj: ../_2_linear_list/_2_2_13_find_lost.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Cloud\CodePractice\datastructure\clion_datastructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_13_find_lost.c.obj -c F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_13_find_lost.c
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.i"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_13_find_lost.c > CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_13_find_lost.c.i
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.s"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_13_find_lost.c -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_13_find_lost.c.s
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj: CMakeFiles/ch3_s1_3.dir/flags.make
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj: ../_2_linear_list/_2_2_14_min_dis.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\Cloud\CodePractice\datastructure\clion_datastructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_14_min_dis.c.obj -c F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_14_min_dis.c
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.i"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_14_min_dis.c > CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_14_min_dis.c.i
+
+CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.s"
+	D:\Dev-Cpp\MinGW64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S F:\Cloud\CodePractice\datastructure\clion_datastructure\_2_linear_list\_2_2_14_min_dis.c -o CMakeFiles\ch3_s1_3.dir\_2_linear_list\_2_2_14_min_dis.c.s
+
 # Object files for target ch3_s1_3
 ch3_s1_3_OBJECTS = \
 "CMakeFiles/ch3_s1_3.dir/_3_stack_and_queue/stack/_ch3_se1_3.c.obj" \
@@ -440,7 +479,10 @@ ch3_s1_3_OBJECTS = \
 "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_8_reverse_a_b.c.obj" \
 "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_9_find_insert.c.obj" \
 "CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_10_left_p.c.obj" \
-"CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj"
+"CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj" \
+"CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj" \
+"CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj" \
+"CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj"
 
 # External object files for target ch3_s1_3
 ch3_s1_3_EXTERNAL_OBJECTS =
@@ -471,11 +513,14 @@ ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_8_reverse_a_b.c.obj
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_9_find_insert.c.obj
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_10_left_p.c.obj
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_11_middle_number.c.obj
+ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_12_find_main_number.c.obj
+ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_13_find_lost.c.obj
+ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/_2_linear_list/_2_2_14_min_dis.c.obj
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/build.make
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/linklibs.rsp
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/objects1.rsp
 ch3_s1_3.exe: CMakeFiles/ch3_s1_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Cloud\CodePractice\datastructure\clion_datastructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking C executable ch3_s1_3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\Cloud\CodePractice\datastructure\clion_datastructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking C executable ch3_s1_3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ch3_s1_3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
