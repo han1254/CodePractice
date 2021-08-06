@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/os_code/os_try/soft_mutex_1.c
+stdio.h
+F:/Cloud/CodePractice/os_code/os_try/stdio.h
+stdlib.h
+F:/Cloud/CodePractice/os_code/os_try/stdlib.h
+windows.h
+F:/Cloud/CodePractice/os_code/os_try/windows.h
+process.h
+F:/Cloud/CodePractice/os_code/os_try/process.h
+

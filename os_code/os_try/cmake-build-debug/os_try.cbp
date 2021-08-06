@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="os_try"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="metex_1_thread">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/metex_1_thread.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 metex_1_thread"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="metex_1_thread/fast">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/metex_1_thread.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 metex_1_thread/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="os_try">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/os_try.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 os_try"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="os_try/fast">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/os_try.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 os_try/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="metex_1">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/metex_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 metex_1"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="metex_1/fast">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/metex_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 metex_1/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="banker_main">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/banker_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 banker_main"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="banker_main/fast">
+				<Option output="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/banker_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="D:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 banker_main/fast"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/banker_alg/banker_algorithm.c">
+			<Option target="os_try"/>
+			<Option target="banker_main"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/banker_alg/banker_init.h">
+			<Option target="os_try"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/banker_alg/security_check.h">
+			<Option target="banker_main"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/main.c">
+			<Option target="os_try"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/producer_cosumer.c">
+			<Option target="os_try"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/soft_mutex_1.c">
+			<Option target="os_try"/>
+			<Option target="metex_1"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/soft_mutex_1_thread.c">
+			<Option target="metex_1_thread"/>
+			<Option target="os_try"/>
+		</Unit>
+		<Unit filename="F:/Cloud/CodePractice/os_code/os_try/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

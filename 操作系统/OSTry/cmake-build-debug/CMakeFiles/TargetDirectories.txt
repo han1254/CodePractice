@@ -1,0 +1,3 @@
+F:/Cloud/CodePractice/操作系统/OSTry/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cloud/CodePractice/操作系统/OSTry/cmake-build-debug/CMakeFiles/OSTry.dir
+F:/Cloud/CodePractice/操作系统/OSTry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

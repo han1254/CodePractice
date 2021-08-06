@@ -1,0 +1,6 @@
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/metex_1_thread.dir
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/os_try.dir
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/metex_1.dir
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/banker_main.dir
+F:/Cloud/CodePractice/os_code/os_try/cmake-build-debug/CMakeFiles/rebuild_cache.dir
