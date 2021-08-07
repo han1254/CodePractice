@@ -60,12 +60,20 @@ void run_work(int* allocation, int* need, int* work, int process, int m) {
 
 int security_check(int** allocation,int** need, int* work,
                    int* flag, int process, int depth, int pro_count, int res_count) {
+
     if (depth > pro_count){
+        int cache[pro_count];
         for (int i = 0; i < pro_count; ++i) {
-            printf("p%d:%d\n", i, flag[i]);
+//            printf("p%d:%d\n", i, flag[i]);
+            cache[flag[i]] = i;
         }
+        for (int i = 0; i < pro_count; ++i) {
+            printf("p%d ", cache[i]);
+        }
+        printf("\n");
         return 1;
     }
+    if (flag[process] > 0) return 1;
     int count = (process + 1) % pro_count;
     int res = 0;
     int temp_work[res_count];
@@ -76,15 +84,10 @@ int security_check(int** allocation,int** need, int* work,
             temp_work[i] = work[i];
             temp_need[i] = need[process][i];
             need[process][i] = 0;
-//            work[i] -= need[process][i];
             work[i] += allocation[process][i];
         }
         flag[process] = depth;
-        while(!(count >= pro_count && count % pro_count == process)) {
-            if(flag[count] > 0) {
-                count++;
-                continue;
-            }
+        while(!(count >= pro_count && (count % pro_count == process))) {
 
             res = res | security_check(allocation, need, work,
                                        flag, count % pro_count, depth + 1, pro_count, res_count);
