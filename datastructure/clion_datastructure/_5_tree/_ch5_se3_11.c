@@ -2,7 +2,7 @@
 // Created by han1254 on 5/2/21.
 //
 #include "BiTreeImpl.h"
-#include "../../../../../../usr/include/memory.h"
+#include "string.h"
 
 
 void free_tree(BiTree tree) {

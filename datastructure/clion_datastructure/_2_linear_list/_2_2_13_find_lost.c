@@ -2,7 +2,7 @@
 // Created by 12547 on 2021/7/29.
 //
 
-int find_lost(int a[], int n) {
+int find_lost(const int a[], int n) {
     int record[n];
     for (int i = 0; i < n; ++i) {
         record[n] = 0;

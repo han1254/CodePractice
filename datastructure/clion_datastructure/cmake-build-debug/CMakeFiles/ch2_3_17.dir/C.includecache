@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/DLinkList.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/DLinkListImpl.h
+DLinkList.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/DLinkList.h
+malloc.h
+-
+stddef.h
+-
+stdio.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/stdio.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_3_17_bio_judge_symmetry.c
+DLinkListImpl.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/DLinkListImpl.h
+

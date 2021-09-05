@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_2_1_del_min.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch2_2_1.dir/_2_linear_list/_2_2_1_del_min.c.obj"
+  "F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_3_6_sort_list.c" "F:/Cloud/CodePractice/datastructure/clion_datastructure/cmake-build-debug/CMakeFiles/ch2_2_1.dir/_2_linear_list/_2_3_6_sort_list.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

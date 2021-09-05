@@ -30,7 +30,7 @@ int middle_number2(const int A[], const int B[], int len) {
         else if(A[m1] < B[m2]) {
             if(size % 2 == 1) {//若元素个数为奇数
                 a_left = m1;//舍弃中间点之前的部分，保留中间点
-                b_right = m2;//舍弃中间点之后的部分，保留中间点
+                b_right = m2;//舍弃中间点之后的部分，保留中间点 m2 - 1是不对的
             } else {
                 a_left = m1 + 1;//舍弃中间点以及中间点之前的部分
                 b_right = m2;//舍弃中间点之后的部分，保留中间点
@@ -52,8 +52,8 @@ int middle_number2(const int A[], const int B[], int len) {
 }
 
 int main() {
-    int A[5] = {11, 13, 15, 17, 19};
-    int B[5] = {2, 4, 6, 8, 20};
-    printf("middle number=%d\n", middle_number(A, B, 5));
-    printf("middle number=%d\n", middle_number2(A, B, 5));
+    int A[5] = {1,3,5};
+    int B[5] = {2,4,6};
+    printf("middle number=%d\n", middle_number(A, B, 3));
+    printf("middle number=%d\n", middle_number2(A, B, 3));
 }

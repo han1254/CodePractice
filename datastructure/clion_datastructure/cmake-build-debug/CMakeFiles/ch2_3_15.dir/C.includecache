@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkList.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkListImpl.h
+stddef.h
+-
+stdlib.h
+-
+stdio.h
+-
+LinkList.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkList.h
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_3_15_union.c
+LinkListImpl.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/LinkListImpl.h
+

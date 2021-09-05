@@ -3,6 +3,7 @@
 //
 
 #include <memory.h>
+#include "string.h"
 #include "BiTreeImpl.h"
 /**
  * copyright:han1254

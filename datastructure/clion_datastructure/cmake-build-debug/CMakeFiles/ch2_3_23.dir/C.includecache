@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/_2_3_23_del_duplicate.c
+stdio.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/stdio.h
+stddef.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/stddef.h
+malloc.h
+F:/Cloud/CodePractice/datastructure/clion_datastructure/_2_linear_list/malloc.h
+
